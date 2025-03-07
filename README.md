@@ -54,6 +54,10 @@ The weather data used in this application is sourced from Dublin Airport. It inc
 - ggplot2 (R package)
 - plotly (R package)
 
-## Author 
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-- **Sarvesh Sairam Naik**
+---
+
+**Author:** Sarvesh Sairam Naik  
+**GitHub Repository:** [GitHub Link](https://github.com/sarveshsn)
